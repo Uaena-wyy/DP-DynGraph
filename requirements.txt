@@ -1,0 +1,18 @@
+# Python 3.11+
+# 核心依赖
+numpy>=2.0
+pandas>=2.1
+networkx>=3.1
+matplotlib>=3.7
+seaborn>=0.13
+scipy>=1.11
+scikit-learn>=1.3
+
+# pandas 可选加速依赖（必须与 numpy 2.x 兼容）
+numexpr>=2.9
+bottleneck>=1.4
+
+# Jupyter Notebook 运行环境
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.25

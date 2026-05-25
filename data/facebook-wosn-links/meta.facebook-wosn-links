@@ -1,0 +1,13 @@
+category: Social
+code: Ol
+name: Facebook (WOSN)
+fullname: Facebook friendships
+description: User–user friendship
+url: http://socialnetworks.mpi-sws.org/data-wosn2009.html
+cite: viswanath09
+extr: facebook-wosn
+entity-names: user
+relationship-names: friendship
+long-description: This undirected network contains friendship data of Facebook users.  A node represents a user and an edge represents a friendship between two users.  The dataset is obviously not complete and contains a very small subset of the total Facebook friendship graph. 
+tags: #incomplete 
+timeiso:  2009
